@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30" started-at="2022-05-17T22:14:24 IST" finished-at="2022-05-17T22:14:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30" started-at="2022-05-17T22:14:24 IST" finished-at="2022-05-17T22:14:24 IST">
+      <class name="cucumber.seasons">
+        <test-method status="PASS" signature="monsoon()[pri:0, instance:cucumber.seasons@19627bc]" name="monsoon" duration-ms="3" started-at="2022-05-17T22:14:24 IST" finished-at="2022-05-17T22:14:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monsoon -->
+        <test-method status="PASS" signature="summer()[pri:0, instance:cucumber.seasons@19627bc]" name="summer" duration-ms="0" started-at="2022-05-17T22:14:24 IST" finished-at="2022-05-17T22:14:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summer -->
+        <test-method status="PASS" signature="winter()[pri:0, instance:cucumber.seasons@19627bc]" name="winter" duration-ms="0" started-at="2022-05-17T22:14:24 IST" finished-at="2022-05-17T22:14:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- winter -->
+      </class> <!-- cucumber.seasons -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
